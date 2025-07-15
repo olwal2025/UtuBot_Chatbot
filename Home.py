@@ -1,5 +1,9 @@
+import os
 import streamlit as st
-from PIL import Image
+import openai
+
+# Load API key: first from Streamlit secrets, then from environment variable
+openai.api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
 
 st.set_page_config(page_title="UtuBot - SRHR Chatbot", page_icon="🤖", layout="centered")
 

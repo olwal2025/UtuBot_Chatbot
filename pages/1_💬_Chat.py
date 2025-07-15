@@ -7,7 +7,7 @@ from difflib import get_close_matches
 
 # Load environment variables
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
 
 # Load FAQs from faqs.json
 def load_faqs():

@@ -42,13 +42,18 @@ UtuBot is an AI-powered assistant designed to support young people with accurate
 
 > **Note:** The `.env` file is listed in `.gitignore` and will not be tracked by Git.
 
-### Running the App
+### Running the App Locally
 
 ```bash
 streamlit run Home.py
 ```
 
 The app will be available at [http://localhost:8501](http://localhost:8501).
+
+### Live Demo
+
+Try the deployed chatbot here:  
+[https://hzsyjuj3m2kuwgd8ljkbtc.streamlit.app/](https://hzsyjuj3m2kuwgd8ljkbtc.streamlit.app/)
 
 ## Project Structure
 
