@@ -26,8 +26,8 @@ UtuBot is an AI-powered assistant designed to support young people with accurate
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Utubot-Chatbot.git
-    cd Utubot-Chatbot/Utubot Streamlit
+    git clone https://github.com/olwal2025/UtuBot_Chatbot.git
+    cd UtuBot_Chatbot
     ```
 
 2. Install dependencies:
@@ -35,10 +35,12 @@ UtuBot is an AI-powered assistant designed to support young people with accurate
     pip install -r requirements.txt
     ```
 
-3. Add your OpenAI API key to a `.env` file:
+3. Add your OpenAI API key to a `.env` file in the project root:
     ```
     OPENAI_API_KEY=your_openai_api_key_here
     ```
+
+> **Note:** The `.env` file is listed in `.gitignore` and will not be tracked by Git.
 
 ### Running the App
 
