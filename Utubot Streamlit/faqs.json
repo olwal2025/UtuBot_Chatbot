@@ -1,0 +1,40 @@
+{
+  "faqs": [
+    {
+      "question": "What is menstruation?",
+      "answer": "Menstruation is the monthly shedding of the uterus lining, commonly called a period. It's a normal part of growing up."
+    },
+    {
+      "question": "Can I get pregnant from kissing?",
+      "answer": "No, you cannot get pregnant from kissing. Pregnancy only happens when a sperm meets an egg."
+    },
+    {
+      "question": "What is consent?",
+      "answer": "Consent means giving clear, voluntary and informed permission to engage in an activity. It must be freely given, ongoing and can be withdrawn at any time. Silence or lack of a 'no' does not mean consent."
+    },
+    {
+      "question": "What are contraceptives?",
+      "answer": "Contraceptives are methods used to prevent pregnancy, like condoms, pills or injections."
+    },
+    {
+      "question": "Can I get pregnant the first time I have sex?",
+      "answer": "Yes, you can. It only takes one time for pregnancy to happen."
+    },
+    {
+      "question": "What should I do if my condom breaks?",
+      "answer": "If a condom breaks, you can consider emergency contraception and visit a health clinic as soon as possible."
+    },
+    {
+      "question": "Are periods supposed to hurt?",
+      "answer": "Some discomfort is normal, but severe pain isn't. Talk to a doctor or health worker if the pain is too much."
+    },
+    {
+      "question": "Can I get HIV from sharing a toilet?",
+      "answer": "No. HIV doesn't spread through toilet sharing. It spreads through unprotected sex, sharing needles or from mother to child during pregnancy, childbirth or breastfeeding."
+    },
+    {
+      "question": "What is an STI?",
+      "answer": "STI stands for Sexually Transmitted Infection. These infections are passed through sex or contact with infected blood. Condoms, testing and fewer partners help prevent them."
+    }
+  ]
+}
